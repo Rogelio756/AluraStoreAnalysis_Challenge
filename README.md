@@ -25,7 +25,7 @@ El objetivo principal es proporcionar al Sr. Juan una recomendación sobre qué 
 
 ## Estructura del proyecto
 
-El proyecto se desarrolla en un notebook de Jupyter (AluraStoreLatam.ipynb) 📓 que contiene el análisis de datos y la visualización de los resultados.
+El proyecto se desarrolla en un notebook de GoogleColab (AluraStoreLatam.ipynb) 📓 que contiene el análisis de datos y la visualización de los resultados.
 
 ## Dependencias
 
